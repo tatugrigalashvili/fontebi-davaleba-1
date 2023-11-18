@@ -1,0 +1,19 @@
+
+/*teqstis fonti*/
+@font-face {
+    font-family: "paragrapis fonti";
+    src: url(font/OldStandardTT-Regular.ttf);
+}
+/*satauris fonti*/
+@font-face {
+    font-family: "satauris fonti";
+    src: url(font2/2131-font.otf);
+}
+/*satauri*/
+h2{
+    font-family: "satauris fonti";
+}
+/*teqsti*/
+p{
+    font-family: "paragrapis fonti";
+}
