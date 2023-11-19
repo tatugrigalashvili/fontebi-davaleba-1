@@ -2,12 +2,12 @@
 /*teqstis fonti*/
 @font-face {
     font-family: "paragrapis fonti";
-    src: url(font/OldStandardTT-Regular.ttf);
+    src: url(font1.ttf);
 }
 /*satauris fonti*/
 @font-face {
     font-family: "satauris fonti";
-    src: url(font2/2131-font.otf);
+    src: url(font2.otf);
 }
 /*satauri*/
 h2{
